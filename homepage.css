@@ -1,0 +1,23 @@
+h1 {color:black;}
+
+h1 {text-align: center;}
+
+h1 {font-family: 'Great Vibes', cursive;}
+
+p1 {font-family: 'Open Sans Condensed', sans-serif;}
+
+p2 {font-family: 'Open Sans Condensed', sans-serif;}
+
+p3 {font-family: 'Open Sans Condensed', sans-serif;}
+
+body {background: lightcoral; font-size: 24pt;}
+
+body {color:black;}
+
+nav li {display: inline-block}
+
+nav li {border: 2px solid black}
+
+nav li {padding: 10px;
+	    margin: 5px;
+	    background: lightgray}
